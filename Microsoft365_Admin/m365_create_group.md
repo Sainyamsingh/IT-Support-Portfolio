@@ -16,7 +16,7 @@ To manually create a Microsoft 365 group, assign an owner, set group email and p
 8. Assign **Dexter Morgan** as the **Group Owner**.
 9. Click **Create** to finish group creation.
 
-## Screenshot Evidence:
+## Screenshot:
 
 <img width="1919" height="1079" alt="Screenshot 2025-08-06 140658" src="https://github.com/user-attachments/assets/d4514943-9920-4010-a549-c143a9768c46" />
 <img width="1919" height="1078" alt="Screenshot 2025-08-06 140721" src="https://github.com/user-attachments/assets/e2dd33cf-a28f-4eea-bfe0-542072b00709" />
