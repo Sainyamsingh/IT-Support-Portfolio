@@ -1,61 +1,87 @@
-# Microsoft 365 Admin Portfolio
+# IT Support Portfolio
 
 ## Overview
-This repository contains a collection of **step-by-step guides** documenting common and advanced Microsoft 365 administrative tasks.  
-The purpose of this portfolio is to demonstrate practical, hands-on experience with the Microsoft 365 Admin Center and related tools, as performed in real-world IT support and helpdesk scenarios.
+This repository contains a collection of **step-by-step guides** documenting practical IT support, helpdesk, and system administration tasks.  
+It demonstrates hands-on experience with **Microsoft 365**, **Freshdesk Ticketing**, and **Windows Server Administration** in real-world support scenarios.
+
+
 
 ## Categories & Tasks
 
-### 1. User & Group Management
-- Create new users (single and bulk)
-- Assign admin roles
-- Create and manage security groups
-- Reset user passwords
-- Block/unblock user sign-ins
+### 1. Microsoft 365 Administration
+- User & Group Management  
+  - Create and manage users (single and bulk)  
+  - Assign and modify admin roles  
+  - Create and manage security groups  
+  - Reset user passwords  
+  - Block or unblock user sign-ins  
 
-### 2. Mailbox & Email Management
-- Create shared mailboxes
-- Configure mailbox forwarding
-- Assign full access to mailboxes
-- Manage public folder permissions
+- Mailbox & Email Management  
+  - Create and manage shared mailboxes  
+  - Configure mailbox forwarding  
+  - Assign full access permissions  
+  - Manage public folder permissions  
 
-### 3. Security & Access Control
-- Enforce Multi-Factor Authentication (MFA)
-- Apply conditional access-like restrictions
-- Configure safe attachments and malware filter policies
-- Modify connection filter and anti-spam settings
+- Security & Access Control  
+  - Enforce Multi-Factor Authentication (MFA)  
+  - Configure conditional access–style restrictions  
+  - Set up safe attachments and malware filters  
+  - Modify connection filters and anti-spam policies  
 
-### 4. Compliance & Governance
-- Enable litigation hold
-- Configure retention policies
-- Apply encryption policies for Outlook
+- Compliance & Governance  
+  - Enable litigation hold on mailboxes  
+  - Configure retention policies  
+  - Apply encryption policies for Outlook  
 
-### 5. Auditing & Reports
-- View user sign-in activity reports
-- Run eDiscovery test searches
+- Auditing & Reporting  
+  - Generate user sign-in reports  
+  - Run eDiscovery searches  
+  - Track mailbox and security policy changes  
 
----
+
+### 2. Freshdesk Ticketing Demo
+- Ticket Lifecycle Management  
+  - Document full ticket lifecycle (creation, assignment, resolution)  
+  - Manage common resolution workflows (404 errors, email issues, printing problems, VPN, etc.)  
+  - Close and resolve tickets following SLA requirements  
+
+- Practical Helpdesk Scenarios  
+  - Reset user passwords via ticket  
+  - Document repeatable troubleshooting steps  
+  - Demonstrate customer communication and resolution documentation  
+
+
+### 3. Windows Server Lab
+- Active Directory Management  
+  - Create and manage domain users  
+  - Add roles and groups in AD DS  
+  - Reset and disable AD user accounts  
+
+- Group Policy & Security  
+  - Configure account lockout policies  
+  - Set password policies via GPO  
+  - Apply organizational security rules  
+
+- Networking & Server Setup  
+  - Configure lab networks and VirtualBox network settings  
+  - Promote a server to Domain Controller (DC)  
+  - Create shared folders with NTFS permissions  
+  - Initial Windows Server VM setup and configuration  
+
+
 
 ## Skills Demonstrated
-- Microsoft 365 Admin Center navigation
-- User lifecycle management
-- Email security and protection
-- Compliance and retention configuration
-- Auditing and activity reporting
-- Incident response (blocking accounts, securing mailboxes)
+- Microsoft 365 Administration (users, mailboxes, security, compliance)  
+- Helpdesk & Ticketing Systems (Freshdesk workflows, SLA-based resolutions)  
+- Windows Server & Active Directory (AD DS, GPOs, user lifecycle, domain management)  
+- Email security and compliance policies  
+- Auditing, monitoring, and reporting  
+- Incident response and troubleshooting  
 
----
 
-## Disclaimer
-All names, email addresses, and organizational details used in this portfolio are **fictional** and inspired by my **favourite TV show characters**.  
-They are used **solely for demonstration purposes** in a training and portfolio context.  
-No real user data is included.
-
----
 
 ## Purpose
-This portfolio was created to:
-1. Document my Microsoft 365 admin skills.
-2. Serve as a reference during interviews.
-3. Demonstrate readiness for IT Support, Helpdesk, and Junior Microsoft 365 Administrator roles.
-
+This portfolio was created to:  
+1. Showcase practical IT support and system administration skills.  
+2. Serve as a reference during job applications and interviews.  
+3. Demonstrate readiness for **IT Support, Helpdesk, Cloud Support, and Microsoft 365 Administrator roles**.  
